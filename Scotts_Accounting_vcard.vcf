@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Charley Scott
+N:Scott;Charley ;;;
+item1.EMAIL;TYPE=INTERNET:cscott@scottsaccounting.com
+item1.X-ABLabel:
+item2.TEL:918-578-9148
+item2.X-ABLabel:
+item3.ADR:;;1437 Cherokee Hills Dr;Bartlesville;OK;74006-4310;US;1437 Chero
+ kee Hills Dr\nBartlesville\, OK 74006-4310\nUS
+item3.X-ABLabel:
+ORG:Scott's Accounting LLC
+TITLE:Accountant
+item4.URL:www.scottsaccounting.com
+item4.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
